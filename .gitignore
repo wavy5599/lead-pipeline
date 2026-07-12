@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+
+# Generated lead outputs
+leads/
+leads_clean/
+leads_verify/
+
+# Real API fetch output may contain business/contact data
+data/raw_places.json
+
+# Local secrets
+.env
