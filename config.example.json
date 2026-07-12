@@ -1,0 +1,22 @@
+{
+  "min_rating": 4.2,
+  "min_reviews": 10,
+  "target_industries": [
+    "barber",
+    "beauty_salon",
+    "car_repair",
+    "dentist",
+    "electrician",
+    "hair_care",
+    "home_goods_store",
+    "lawyer",
+    "locksmith",
+    "moving_company",
+    "painter",
+    "plumber",
+    "real_estate_agency",
+    "roofing_contractor",
+    "spa"
+  ],
+  "exclude_if_has_website": true
+}
