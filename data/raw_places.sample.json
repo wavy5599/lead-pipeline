@@ -1,0 +1,46 @@
+[
+  {
+    "place_id": "sample_001",
+    "name": "Northside Family Dental",
+    "formatted_address": "1220 N Main St, Dayton, OH 45405",
+    "formatted_phone_number": "(937) 555-0198",
+    "rating": 4.7,
+    "user_ratings_total": 86,
+    "types": ["dentist", "health", "point_of_interest", "establishment"],
+    "website": null,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "sample_002",
+    "name": "Bright Cut Barber Shop",
+    "formatted_address": "808 Market Ave, Akron, OH 44308",
+    "formatted_phone_number": "(330) 555-0144",
+    "rating": 4.6,
+    "user_ratings_total": 41,
+    "types": ["hair_care", "health", "point_of_interest", "establishment"],
+    "website": "",
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "sample_003",
+    "name": "Summit Roof & Gutter",
+    "formatted_address": "44 Ridge Rd, Canton, OH 44702",
+    "formatted_phone_number": "(234) 555-0112",
+    "rating": 4.1,
+    "user_ratings_total": 9,
+    "types": ["roofing_contractor", "point_of_interest", "establishment"],
+    "website": null,
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "sample_004",
+    "name": "Lakeview Plumbing Pros",
+    "formatted_address": "510 Lake Dr, Cleveland, OH 44102",
+    "formatted_phone_number": "(216) 555-0181",
+    "rating": 4.8,
+    "user_ratings_total": 124,
+    "types": ["plumber", "point_of_interest", "establishment"],
+    "website": "https://example.com",
+    "business_status": "OPERATIONAL"
+  }
+]
